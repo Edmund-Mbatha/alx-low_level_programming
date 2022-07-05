@@ -12,6 +12,5 @@ int main(void)
 			a++;
 		}
 	putchar ('9');
-	putchar ('\n');
 	return (0);
 }
