@@ -9,6 +9,7 @@ int main(void)
 			putchar (a);
 			putchar (',');
 			putchar (' ');
+			a++;
 		}
 	putchar ('9');
 	return (0);
